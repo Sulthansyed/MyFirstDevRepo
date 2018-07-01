@@ -1,0 +1,9 @@
+ID|Province_ID|Area|Postcode|
+1|P2|Williamstown (Carleton Country)|E7K 2A6|
+2|P2|Williamstown (Carleton Country)|E7K 2A7|
+3|P2|Williamstown (Carleton Country)|E7K 2A8|
+4|P2|Williamstown (Carleton Country)|E7K 3H1|
+5|P1|New Bridgen (Acadia Country)|T0J 0B3|
+6|P1|New Bridgen (Acadia Country)|T0J 2G0|
+7|P2|French Village (Kings Country)|E5N 8C7|
+8|P2|Glenwood (Kings Country)|E5M 1N8|

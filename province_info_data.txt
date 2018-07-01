@@ -1,0 +1,3 @@
+Province_ID|Province_name|
+P1|Alberta|
+P2|New Brunswick|
