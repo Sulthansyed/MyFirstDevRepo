@@ -1,0 +1,43 @@
+I started of my career as Assistant system engineer with tata consultancy services 6 year ago where intially i was trained in java and worked as an developer role android project with american express team for a year, in the role i was quickly able to transition from java to android programming environtment within a month and shown good productivity to the team, my roles are to develop eula develop activity in android similar to amex web applications,
+next i was working as support and enhancement specialist within amex for an multi tier java intranet application the application basically serves to help csr representative to customers responsible for maintaining the application high availability, responding promptly and professionally to bug reports if any user faced by the customer, finding out the performance issue from the project caused by faulty code and suggesting code fix,
+later than i started working with amex digital team for a bigdata project where we did two kind of project
+1. web server log processing - processed ibm web server logs roles and responsibilites analyze business needs and seek clarification , involved in intial design and architecture of the environtment,developed mapper using java to create various output based on the key
+2.Data Integration, load mysql server data to hive environtment for analytics functions, sqooped sql data from different locations across u.s saved the table in hdfs location based of country for amex , roles and responsibilities include 
+•	Analyzing requirements and seeking functional clarifications. 
+•	 Analyze & Design architecture for Big Data framework implementation.
+•	Analyzing requirements for application improvement. 
+developing  generic sqoop jobs to import data from different location without hassles.
+From 2016 i have been deputed in client location i have been working as ETL developer with MalaysianAirlines the project is a migration project migration of passenger seating system from SITA to AMADEUS, my roles and responsibilities include working closely with BA to understand the business requirement design and develop an high level SAS job to migrated data from oracle table to SAS hadoop environtment as a reporting table, my achievement are owned a seperate module which involved 6 inventory reports and delivered on time.
+
+SCB 
+
+3. LMS (Lead Management System) 07/2017 – 01/2018
+Developer
+Standard Chartered Bank
+Responsibilities
+? Developed Spark Streaming job to read data from Kafka queue,
+? Developed JSON parser to fetch the customer information to verify against the bank core system
+? Worked closely with 3rd party vendor in integrating SMS alert system within the project
+? Shown full involvement in presenting the project to CAB reviewer meeting and getting the project
+deployed on time
+? Completely Handled DR (Disaster Recovery for the project)
+
+2. KBE (Real-time EMI SMS to SCB Credit Card Customers)02/2018 – 04/2018
+Developer
+Standard Chartered Bank
+Responsibilities
+? Validated around 500k records from business using shell script
+? Written HIVE scripts to load the data into hive environment
+? Handled Apache Streaming jobs to convert Hive to JSON data
+? Created Kafka topics
+? Achieved 100% Business Satisfaction on Business Go Live
+? Followed complete Agile process throughout the project time using JIRA.
+1. iGrid (Data Migration and Report Generation) 04,2018-current
+Developer
+Standard Chartered Bank
+Responsibilities
+? The current project is in Development phase
+? Development of reports using hive views.
+? Involving in Sanity check on data loaded to hive sit and Dev.
+
+I understand that for the position of data engineer your hiring for, your looking for someone, who has strong skill in ETL... overall due to my strong background and achievements in successfully identifying and creating effeciencies, i am confident i will be able to succeed in the role your hiring for.
